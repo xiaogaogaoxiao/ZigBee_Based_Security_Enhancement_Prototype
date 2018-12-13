@@ -1,0 +1,19 @@
+# pycharm configs
+.idea/
+
+# eclipse configs
+*.project
+*.pydevproject
+
+# vim temp files
+*.swo
+*.swp
+
+*.pyc
+*.pdf
+*.DS_Store
+*.gpickle
+
+venv/
+/Document/
+__pycache__/
