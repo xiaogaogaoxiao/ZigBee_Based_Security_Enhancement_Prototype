@@ -1,0 +1,2 @@
+the key is:  12345678
+the cipher is:  d1407e2836e3451f
